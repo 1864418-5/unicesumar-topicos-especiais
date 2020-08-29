@@ -1,2 +1,2 @@
 # gestorFinanceiro
-API para gestão financeira
+API para Controle de Receita e Despesas.
